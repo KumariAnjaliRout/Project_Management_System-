@@ -19,30 +19,6 @@ This system allows users to create projects, assign tasks, track progress, and c
 ✅ RESTful API Integration – Clean and modular backend services.
 
 
-📂 Project Structure
-Project_Management_System/
-│
-├── backend/
-│   ├── controllers/       # Handles business logic
-│   ├── models/            # MongoDB schemas
-│   ├── routes/            # API endpoints
-│   ├── middleware/        # Auth, error handling, etc.
-│   ├── config/            # Database connection and environment setup
-│   └── server.js          # Entry point for backend
-│
-├── frontend/
-│   ├── public/            # Static assets
-│   ├── src/
-│   │   ├── components/    # Reusable UI components
-│   │   ├── pages/         # Page views
-│   │   ├── services/      # API integration
-│   │   └── App.js         # Root React component
-│   └── package.json
-│
-├── .gitignore
-├── README.md
-└── package.json
-
 ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
