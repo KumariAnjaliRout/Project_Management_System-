@@ -5,21 +5,20 @@ This system allows users to create projects, assign tasks, track progress, and c
 
 🚀 Features
 
+
 ✅ User Authentication & Authorization – Secure login, registration, and role-based access.
+
 ✅ Project Management – Create, update, and delete projects with details like deadlines and descriptions.
+
 ✅ Task Tracking – Assign tasks, update statuses, and monitor progress in real time.
+
 ✅ Team Collaboration – Manage multiple users within a project.
+
 ✅ Responsive UI – Works smoothly on all devices.
+
 ✅ RESTful API Integration – Clean and modular backend services.
 
-🛠️ Tech Stack
-Layer	Technology
-Frontend	HTML, CSS, JavaScript (optionally React or Bootstrap)
-Backend	Node.js, Express.js
-Database	MongoDB (via Mongoose)
-Authentication	JSON Web Token (JWT)
-Version Control	Git & GitHub
-Package Manager	npm / yarn
+
 📂 Project Structure
 Project_Management_System/
 │
